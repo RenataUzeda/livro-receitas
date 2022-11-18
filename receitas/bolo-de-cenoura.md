@@ -1,6 +1,6 @@
 # Bolo de Cenoura com Chocolate
 
-### Ingredientes
+## Ingredientes
 
 ### Massa
 -   1/2 xícara (chá) de óleo
@@ -10,13 +10,13 @@
 -   2 e 1/2 xícaras (chá) de farinha de trigo
 -   1 colher (sopa) de fermento em pó
 
-### COBERTURA
+### Cobertura
 -   1 colher (sopa) de manteiga
 -   3 colheres (sopa) de chocolate em pó
 -   1 xícara (chá) de açúcar
 -   1 xícara (chá) de leite
  
-### MODO DE PREPARO
+## Modo de preparo
 
 ### Massa
 1. Em um liquidificador, adicione a cenoura, os ovos e o óleo, depois misture.
