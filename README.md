@@ -4,5 +4,5 @@ Olá ! Bem vindo ao meu livro de receitas :wave:
 
 -   [Strogonoff de frango](https://github.com/Perkles/livro-receitas/blob/master/receitas/strogonoff.md)
 -   [Salada Simples](https://github.com/Perkles/livro-receitas/blob/master/receitas/salada.md)
--   Bolo de Cenoura
+-   [Bolo de Cenoura](https://github.com/RenataUzeda/livro-receitas/blob/adiciona-receita/receitas/bolo-de-cenoura.md)
 -   Pavê
